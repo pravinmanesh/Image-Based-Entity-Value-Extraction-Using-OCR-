@@ -26,9 +26,3 @@ This repository contains a Python project that utilizes Optical Character Recogn
 - **Pytesseract**: OCR engine.
 - **Regex**: Extracting numerical values and associated units.
 - **Pandas**: Dataset handling and CSV manipulation.
-
-## **Setup Instructions**
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/image-entity-extraction.git
